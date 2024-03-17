@@ -1,9 +1,7 @@
 # personal_projects
 This repository contains base files for my personal-projects.
 
-
 # Steps
-
 ## 1. Update config.yaml
 ## 2. Update schema.yaml
 ## 3. Update params.yaml
